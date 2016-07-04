@@ -3,6 +3,6 @@ resources:
     type: gitRepo
     integration: github
     source:
-      name: himanshu0503/sample-script
+      name: himanshu0503test/sample-script
       branch: master
 
